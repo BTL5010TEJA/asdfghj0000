@@ -1,0 +1,24 @@
+{
+  "name": "agrosocialmedia",
+  "version": "1.0.0",
+  "description": "AgroSocialMedia - A social network platform for farmers to share knowledge, experiences, and collaborate on agricultural practices",
+  "main": "farmer.html",
+  "scripts": {
+    "start": "npx http-server -p 8080",
+    "dev": "npx live-server --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BTL5010TEJA/FARMER-SOCIAL-MEDIA.git"
+  },
+  "keywords": [
+    "agriculture",
+    "farming",
+    "social-media",
+    "farmer-network",
+    "agtech"
+  ],
+  "author": "Teja Lakshman",
+  "license": "MIT",
+  "homepage": "https://btl5010teja.github.io/asdfghj0000/"
+}
