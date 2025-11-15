@@ -41,21 +41,6 @@ npx http-server -p 3000 -o
 
 4. Open `http://localhost:3000/farmer.html` in your browser
 
-### Deployment
-
-#### Vercel
-```bash
-vercel --prod
-```
-
-#### Netlify
-Simply drag and drop the folder to Netlify dashboard or connect your GitHub repo.
-
-## Configuration ⚙️
-
-### Environment Variables
-
-Add these to your deployment platform:
 
 - `OPENWEATHER_API_KEY`: Your OpenWeatherMap API key
 
